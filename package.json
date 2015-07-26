@@ -1,0 +1,19 @@
+{
+  "name": "Angular-iOS-Application-Test",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dustinnewbold/Angular-iOS-Application-Test"
+  },
+  "author": "Dustin Newbold <dustin@dustinnewbold.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinnewbold/Angular-iOS-Application-Test/issues"
+  },
+  "homepage": "https://github.com/dustinnewbold/Angular-iOS-Application-Test",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-watch": "^4.3.4"
+  }
+}
